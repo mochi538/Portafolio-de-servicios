@@ -1,0 +1,19 @@
+
+.letras{
+    font-family: fantasy;
+    color: rgb(0,0,0);
+}
+.borde{
+    border: 2px rgb(105, 105, 105);
+    border-radius: 10%;
+}
+header{
+    background-color: rgb(105, 105, 105);
+    display:flex;
+    width: 1100px;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.sobre{
+    display: flex;
+}
